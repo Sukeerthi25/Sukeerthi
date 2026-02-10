@@ -8,9 +8,6 @@
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Eclipse
 
-- 🧑‍💼 **Student Management System (Java)** *(if you have one)*
-  - CRUD operations using Java and MySQL
-
 ## 🌱 Currently Learning
 - Spring Boot & REST APIs
 - Full Stack Application Development
